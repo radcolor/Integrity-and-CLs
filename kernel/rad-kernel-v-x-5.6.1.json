@@ -1,0 +1,74 @@
+[
+  {
+    "file_name": "rad-v5.6.1-oldcam-clang-whyred.zip",
+    "checksum": {
+      "md5": "e820ec50bdd5481b4b8f7a17a67f2b49",
+      "sha1": "87815e6851962f4d61e17a24ab02de0be25ad9b5",
+      "sha256": "b4be62926f3f9cd9effeaf458521c7c1febea967263d9d553434649ea860282a",
+      "sha512": "32fa66e48633a2e61361c8e99d418fdc623e2bd491900cdce88977a8e1799f4312645d54d28da125d9f3ff5c35f6278413a55d40da3802ad6a1c2f2d05a89848"
+    }
+  },
+  {
+    "file_name": "rad-x5.6.1-newcam-clang-whyred.zip",
+    "checksum": {
+      "md5": "c2009f409080320e2aa0bcb259fb5f33",
+      "sha1": "63ae03fec9391c95d389405f05ba5b0eafb31093",
+      "sha256": "dcc63c5cdf91163924049b3d4b4a3d00ef9c8fb167fe720e6b3b46b4746fc7f3",
+      "sha512": "98b83fb769d3eb27ac9f4b52fc9f745ab2b1654e2f31a6fb37710e70edb9ca0f7f5dd486d9e5112036710bf74674ba3c6c6de99fd386e240c309cea5ebc52a57"
+    }
+  },
+  {
+    "file_name": "rad-x5.6.1-oldcam-clang-whyred.zip",
+    "checksum": {
+      "md5": "e35d58f11b3d6d564e6b6e0c2764deb2",
+      "sha1": "56951829c76ca5f1fa6495cce6f97f38059a64fe",
+      "sha256": "f5d16ea41bcfe2e17c75edd2b7c35ecf52e17eb73e6bb39b8c1f844435cfd577",
+      "sha512": "cd9ed51fadde5322fd4a09bc493d9eaa4bb290c5e8389a0c98b3d30c054b130e15d2cffe1cf66ca4741b366d746b004cbb4adffd2ffd97f1b1a661574af01311"
+    }
+  },
+  {
+    "file_name": "rad-v5.6.1-newcam-clang-whyred.zip",
+    "checksum": {
+      "md5": "fdcf1968c8313e8075ca6dfc75c5047c",
+      "sha1": "1ba7cd30b8615a1d31cbe6a2ef2b68c6551bab12",
+      "sha256": "e915f654bfff8b9ee9eb028cbc86a0e1754b4433012d13a5b11ff155581a09dd",
+      "sha512": "f4445dae71bf55eb2cc53b7b75bd81b25a87b21bbe2961597aa922c099391e6dd47ec7d90c6da4332244bd041c607fd746216a135d19a193660a7fbef6f16dfc"
+    }
+  },
+  {
+    "file_name": "rad-v5.6.1-newcam-gcc-whyred.zip",
+    "checksum": {
+      "md5": "8a09a268a3fece275105ac2bc8f507ba",
+      "sha1": "7837205499b6c67b5027b8bf2f7c3215c1916365",
+      "sha256": "6a3ad1eb9267cf2e3480509c02fcc66948529349cd20515f8a31b0ae09988193",
+      "sha512": "79edf904c630a58617d10d64ecd47eeb20e3fb3554c0577e524e6f10b575f796b36cf77043c0a41fb01ddca507858a119db3635d739a612a5fdadd1960dc9281"
+    }
+  },
+  {
+    "file_name": "rad-v5.6.1-oldcam-gcc-whyred.zip",
+    "checksum": {
+      "md5": "fd324c4d56a0bb7a3c653a4e23b62a05",
+      "sha1": "704e4ceb87da7c45a87bdb4b223a45a6e414615e",
+      "sha256": "796da6381189ca8ad2b36d998e7ca5978c8c2a298ceee108e4d37564cdecbe3c",
+      "sha512": "43958d48f72a650061bc04f1ca8fa21c3de14c7b98766d5ea1306ff901a5a4e9731150bb680e796f671925598824164121c136b843a8529bea18041084ce845e"
+    }
+  },
+  {
+    "file_name": "rad-x5.6.1-newcam-gcc-whyred.zip",
+    "checksum": {
+      "md5": "ad0fafea81619cd2a9b126068232965d",
+      "sha1": "aff256eecfedb5483e750d248d39f1bf35bee097",
+      "sha256": "43d2a691becf3196604f979b7bc1fd460fa60b5f2e79c74f22fd626fcbf0c455",
+      "sha512": "8a9ca79617418827afa16d68fc240ff23ec05149e5f810bf207d5efc8381cf00e690b30b2c4234031c9b1127f7b76b8f4d361af386fb11ba197507f0a1206d6e"
+    }
+  },
+  {
+    "file_name": "rad-x5.6.1-oldcam-gcc-whyred.zip",
+    "checksum": {
+      "md5": "4e7d399ca6df63e0d987540c861785ff",
+      "sha1": "9ab2096364ccb1a7c1984b505708d75bc68c97ce",
+      "sha256": "0dbd9b41b5b36fbe25821b3de0648219a5326cfa5cb8c44833e07f93d1c8de5e",
+      "sha512": "3e9e0f0e7d26473e421770527a1b0d50a83e59aef978175f636bf1da98af0d0aef3f7bea5f82404dc76cb359d0692108c3c0b4bb4afc4fa6d658e4b386523b76"
+    }
+  }
+]
